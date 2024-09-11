@@ -11,5 +11,5 @@ moveButton.style.position= "absolute";
 });
 
 correctlyButton.addEventListener("click", function(){
-  alert("resposta correta! LOVE U S2");
+  alert("resposta correta! amigo voce é um amigo S2");
 });
